@@ -56,7 +56,7 @@ You will receive an email from each of the following programs.
 | **Emory** ([Emory University](https://www.gs.emory.edu/admissions/requirements.html)) | Biostatistics and Bioinformatics    | Dec 1, 2022              | before Dec 1, 2022 1:00 pm  |
 | **Umich** ([University of  Michigan Ann Arbor](https://sph.umich.edu/biostat/apply-phd-biostat.html)) | Biostatistics                       | =above                   | =above                      |
 | **Rice** ([Rice University](https://statistics.rice.edu/academics/graduate/graduate-admissions)) | Statistics                          | =above                   | =above                      |
-| **UW** ([University of Washington](https://www.biostat.washington.edu/apply/instructions#letterofrecommendation)) | Biostatistics                       | Dec 1, 2022 PST 11:59 pm | Dec 2, 2022 PST 3:59 pm     |
+| **UW** ([University of Washington](https://www.biostat.washington.edu/apply/instructions#letterofrecommendation)) | Biostatistics                       | Dec 1, 2022 PST 11:59 pm | Dec 2,  3:59 pm             |
 | **UIUC** ([University of Illinois Urbana-Champaign](https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements)) | Statistics                          | Dec 15, 2022             | before Dec 15, 2022 1:00 pm |
 | **OSU** ([The Ohio State University](https://biostatprograms.osu.edu/biostatphd/prospective-students#applications)) | Statistics                          | =above                   | =above                      |
 | **Purdue** ([Purdue University](https://www.stat.purdue.edu/index.html)) | Statistics                          | Dec 31, 2022             | before Dec 31, 2022 1:00 pm |
