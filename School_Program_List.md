@@ -1,10 +1,10 @@
 
 
-*Note: RL=recommendation letter;  HKT=Hong Kong Time;  BJT=Beijing Time*
+*Note: RL=recommendation letter;  HKT=Hong Kong Time;  BJT=Beijing Time; PST=Pacific Standard Time*
 
 
 
-I finally plan to apply to **13** programs, but **only 10 RLs** are needed. You will complete all RLs electronically.
+I finally plan to apply to **14** programs, but **only 11 RLs** are needed. You will complete all RLs electronically.
 
 
 
@@ -46,7 +46,7 @@ You may need to answer <font color=brown>some questions</font> + <font color=blu
 
 
 
-Each of the following 9 programs requires individual submission of RL. 
+Each of the following 10 programs requires individual submission of RL. 
 
 You will receive an email from each of the following programs.
 
@@ -56,10 +56,13 @@ You will receive an email from each of the following programs.
 | **Emory** ([Emory University](https://www.gs.emory.edu/admissions/requirements.html)) | Biostatistics and Bioinformatics    | Dec 1, 2022              | before Dec 1, 2022 1:00 pm  |
 | **Umich** ([University of  Michigan Ann Arbor](https://sph.umich.edu/biostat/apply-phd-biostat.html)) | Biostatistics                       | =above                   | =above                      |
 | **Rice** ([Rice University](https://statistics.rice.edu/academics/graduate/graduate-admissions)) | Statistics                          | =above                   | =above                      |
+| **UW** ([University of Washington](https://www.biostat.washington.edu/apply/instructions#letterofrecommendation)) | Biostatistics                       | Dec 1, 2022 PST 11:59 pm | Dec 2, 2022 PST 3:59 pm     |
 | **UIUC** ([University of Illinois Urbana-Champaign](https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements)) | Statistics                          | Dec 15, 2022             | before Dec 15, 2022 1:00 pm |
 | **OSU** ([The Ohio State University](https://biostatprograms.osu.edu/biostatphd/prospective-students#applications)) | Statistics                          | =above                   | =above                      |
 | **Purdue** ([Purdue University](https://www.stat.purdue.edu/index.html)) | Statistics                          | Dec 31, 2022             | before Dec 31, 2022 1:00 pm |
 | **PSU** ([Pennsylvania State University](https://science.psu.edu/stat/graduate-programs/how-to-apply)) | Statistics                          | Jan 5, 2023              | before Jan 5, 2023 1:00 pm  |
-| **RU** ([Rutgers University](https://statistics.rutgers.edu/)) | Statistics                          | Jan 10, 2023             | before Jan 10, 2023 1:00 pm |
+| **ISU** （[Iowa State University](https://www.stat.iastate.edu/graduate-admissions-faq)） | Statistics                          | Jan 15, 2023             | before Jan 15, 2023 1:00 pm |
+
+
 
 Thanks again for being part of my application! 😊
