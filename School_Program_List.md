@@ -52,7 +52,7 @@ You will receive an email from each of the following programs.
 
 | University                                                   | Phd program                         | Deadline (Official)      | DDL (HKT =BJT)              |
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------ | --------------------------- |
-| **HKU** ([University of Hong Kong](https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission)) | Innovation & Information Management | Dec 1, 2022  HKT 12:00nn | Dec 1, 2022 12:00 nn        |
+| **HKU** ([the University of Hong Kong](https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission)) | Innovation & Information Management | Dec 1, 2022  HKT  23:59  | Dec 1, 2022  23:59          |
 | **Emory** ([Emory University](https://www.gs.emory.edu/admissions/requirements.html)) | Biostatistics and Bioinformatics    | Dec 1, 2022              | before Dec 1, 2022 1:00 pm  |
 | **Umich** ([University of  Michigan Ann Arbor](https://sph.umich.edu/biostat/apply-phd-biostat.html)) | Biostatistics                       | =above                   | =above                      |
 | **Rice** ([Rice University](https://statistics.rice.edu/academics/graduate/graduate-admissions)) | Statistics                          | =above                   | =above                      |
