@@ -11,7 +11,7 @@ I finally plan to apply to **14** programs, but **only 11 RLs** are needed. You 
 I summarized the RL requirements of different programs here:
 
 - speak to  the applicant's <font color=blue>academic, professional, and/or personal </font> <font color=brown>character, strengths, abilities, and potential</font> to succeed as a graduate student
-- Earliest DDL: (HKT / BJT ) **Dec 1, 2022 12:00 nn**
+- Earliest DDL: (HKT / BJT ) **Dec 1, 2022 1:00 pm**
 
 ------
 
@@ -52,10 +52,10 @@ You will receive an email from each of the following programs.
 
 | University                                                   | Phd program                         | Deadline (Official)      | DDL (HKT =BJT)              |
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------ | --------------------------- |
-| **HKU** ([the University of Hong Kong](https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission)) | Innovation & Information Management | Dec 1, 2022  HKT  23:59  | Dec 1, 2022  23:59          |
 | **Emory** ([Emory University](https://www.gs.emory.edu/admissions/requirements.html)) | Biostatistics and Bioinformatics    | Dec 1, 2022              | before Dec 1, 2022 1:00 pm  |
 | **Umich** ([University of  Michigan Ann Arbor](https://sph.umich.edu/biostat/apply-phd-biostat.html)) | Biostatistics                       | =above                   | =above                      |
 | **Rice** ([Rice University](https://statistics.rice.edu/academics/graduate/graduate-admissions)) | Statistics                          | =above                   | =above                      |
+| **HKU** ([the University of Hong Kong](https://gradsch.hku.hk/gradsch/rola/online-application-for-mphil-phd-admission)) | Innovation & Information Management | Dec 1, 2022  HKT  23:59  | Dec 1, 2022  23:59          |
 | **UW** ([University of Washington](https://www.biostat.washington.edu/apply/instructions#letterofrecommendation)) | Biostatistics                       | Dec 1, 2022 PST 11:59 pm | Dec 2,  3:59 pm             |
 | **UIUC** ([University of Illinois Urbana-Champaign](https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements)) | Statistics                          | Dec 15, 2022             | before Dec 15, 2022 1:00 pm |
 | **OSU** ([The Ohio State University](https://biostatprograms.osu.edu/biostatphd/prospective-students#applications)) | Statistics                          | =above                   | =above                      |
