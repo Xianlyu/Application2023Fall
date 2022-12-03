@@ -106,8 +106,10 @@ Difference between WLLN and SLLN is the convergence type. The existence of mean 
 
 Let $X_1,X_2,...$ be iid random variables with $E[X_i]=\mu$ and $Var[X_i]=\sigma^2$ < $\infty$.
 
- Define $\bar{X}_n=\frac{1}{n}\sum_{i=1}^n X_i$. 
-
+ Define 
+$$
+\bar{X}_n=\frac{1}{n}\sum_{i=1}^n X_i
+$$
 Then, for every $\epsilon$ > $0$,
 $$
 \lim_{n \rightarrow \infty} P(|\bar{X}_n-\mu|<\epsilon)=1
@@ -116,9 +118,13 @@ that is, $\bar{X}_n$ converges in probability to $\mu$.
 
 #### Theorem 5.5.9 (Strong Law of Large Numbers)
 
-Let $X_1,X_2,...$ be iid random variables with $E[X_i]=\mu$ and $Var[X_i]=\sigma^2$ < $\infty$, and define 
+Let $X_1,X_2,...$ be iid random variables with $E[X_i]=\mu$ and $Var[X_i]=\sigma^2$ < $\infty$.
 
-$$\bar{X}_n=\frac{1}{n}\sum_{i=1}^n X_i$$. Then, for every $\epsilon$ > $0$,
+Define 
+$$
+\bar{X}_n=\frac{1}{n}\sum_{i=1}^n X_i
+$$
+Then, for every $\epsilon$ > $0$,
 $$
 P(\lim_{n\rightarrow \infty}|\bar{X}_n-\mu|<\epsilon)=1;
 $$
@@ -132,13 +138,19 @@ that is, $\bar{X}_n$ convergences almost surely to $\mu$.
 
 #### Theorem 5.5.14 (Central Limit Theorem)
 
-Let $X_1,X_2,...$ be a sequence of iid random variables whose **mgfs exist** in a neighborhood of $0$ (that is, $M_{X_i}(t)$ exists for $|t|<h$, for some positive $h$). Let $E[X_i]=\mu$ and $Var[X_i]=\sigma^2>0$. (Both $\mu$ and $\sigma^2$ are finite since the mgf exists.)  
+Let $X_1,X_2,...$ be a sequence of iid random variables whose **mgfs exist** in a neighborhood of $0$ (that is, $M_{X_i}(t)$ exists for $|t|<h$, for some positive $h$). Let $E[X_i]=\mu$ and $Var[X_i]=\sigma^2$ > $0$. (Both $\mu$ and $\sigma^2$ are finite since the mgf exists.)  
 
 Define 
 $$
 \bar{X}_n=\frac{1}{n}\sum_{i=1}^n X_i
 $$
-Let $G_n(x)$ denote the cdf of $\sqrt{n}(\bar{X}_n-\mu)/\sigma$. Then, for any $x$, $-\infty$ < $x$ < $\infty$, 
+
+
+Let $G_n(x)$ denote the cdf of 
+$$
+\sqrt{n}(\bar{X}_n-\mu)/ \sigma.
+$$
+ Then, for any $x$, $-\infty$ < $x$ < $\infty$, 
 $$
 \lim_{n\rightarrow \infty} G_n(x)=\int_{-\infty}^x \frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy;
 $$
